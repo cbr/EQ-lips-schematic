@@ -1,0 +1,1026 @@
+# EESchema Netlist Version 1.1 created  dim. 08 nov. 2009 12:28:38 CET
+(
+ ( /49EB1486/487A1B3B C-D C_EQ_1 10u
+  ( 1 N-000026 )
+  ( 2 N-000028 )
+ )
+ ( /49EB1486/4A7EECF4 C-D C_EQ_3 10u
+  ( 1 N-000077 )
+  ( 2 N-000062 )
+ )
+ ( /49EB1486/487A1F30 C-A C_EQ_4 470_pF
+  ( 1 /eq/EQ_A )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A069A C-D C_EQ_6 3.3uF
+  ( 1 N-000037 )
+  ( 2 N-000041 )
+ )
+ ( /49EB1486/487A064C C-A C_EQ_7 47nF
+  ( 1 N-000041 )
+  ( 2 N-000042 )
+ )
+ ( /49EB1486/487A15C7 C-D C_EQ_8 3.3uF
+  ( 1 N-000038 )
+  ( 2 N-000043 )
+ )
+ ( /49EB1486/487A15C5 C-A C_EQ_9 47nF
+  ( 1 N-000043 )
+  ( 2 N-000044 )
+ )
+ ( /49EB1486/487A165E C-A C_EQ_10 680nF
+  ( 1 N-000036 )
+  ( 2 N-000045 )
+ )
+ ( /49EB1486/487A165C C-A C_EQ_11 15nF
+  ( 1 N-000045 )
+  ( 2 N-000046 )
+ )
+ ( /49EB1486/487A1663 C-B C_EQ_12 330nF
+  ( 1 N-000032 )
+  ( 2 N-000047 )
+ )
+ ( /49EB1486/487A1661 C-A C_EQ_13 15nF
+  ( 1 N-000047 )
+  ( 2 N-000048 )
+ )
+ ( /49EB1486/487A16DF C-B C_EQ_14 100nF
+  ( 1 N-000035 )
+  ( 2 N-000049 )
+ )
+ ( /49EB1486/487A16DD C-A C_EQ_15 680pF
+  ( 1 N-000049 )
+  ( 2 N-000050 )
+ )
+ ( /49EB1486/487A16E4 C-B C_EQ_16 220n
+  ( 1 N-000031 )
+  ( 2 N-000051 )
+ )
+ ( /49EB1486/487A16E2 C-A C_EQ_17 3.3nF
+  ( 1 N-000051 )
+  ( 2 N-000052 )
+ )
+ ( /49EB1486/487A1742 C-B C_EQ_18 100nF
+  ( 1 N-000034 )
+  ( 2 N-000053 )
+ )
+ ( /49EB1486/487A1740 C-A C_EQ_19 1.8nF
+  ( 1 N-000053 )
+  ( 2 N-000054 )
+ )
+ ( /49EB1486/487A1747 C-A C_EQ_20 47nF
+  ( 1 N-000030 )
+  ( 2 N-000055 )
+ )
+ ( /49EB1486/487A1745 C-A C_EQ_21 120pF
+  ( 1 N-000055 )
+  ( 2 N-000056 )
+ )
+ ( /49EB1486/487A174E C-A C_EQ_22 22nF
+  ( 1 N-000033 )
+  ( 2 N-000057 )
+ )
+ ( /49EB1486/487A174C C-A C_EQ_23 470pF
+  ( 1 N-000057 )
+  ( 2 N-000058 )
+ )
+ ( /49EB1486/487A1753 C-A C_EQ_24 10nF
+  ( 1 N-000029 )
+  ( 2 N-000059 )
+ )
+ ( /49EB1486/487A1751 C-B C_EQ_25 15pF
+  ( 1 N-000059 )
+  ( 2 N-000060 )
+ )
+ ( /49EB1486/487A21A8 C-B C_EQ_26 820pF
+  ( 1 N-000040 )
+  ( 2 N-000063 )
+ )
+ ( /49EB1486/487A21E3 C-D C_EQ_27 10uF
+  ( 1 N-000076 )
+  ( 2 N-000040 )
+ )
+ ( /49EB1486/4A3E6F33 C-D C_EQ_B6 3.3uF
+  ( 1 N-000037 )
+  ( 2 N-000041 )
+ )
+ ( /49EB1486/4A3E6F46 C-B C_EQ_B7 68nF
+  ( 1 N-000041 )
+  ( 2 N-000042 )
+ )
+ ( /49EB1486/4A3E6F60 C-A C_EQ_B8 6.8nF
+  ( 1 N-000038 )
+  ( 2 N-000043 )
+ )
+ ( /49EB1486/4A3E6F91 C-A C_EQ_B9 10nF
+  ( 1 N-000043 )
+  ( 2 N-000044 )
+ )
+ ( /49EB1486/4A3E6FF3 C-D C_EQ_B10 1uF
+  ( 1 N-000036 )
+  ( 2 N-000045 )
+ )
+ ( /49EB1486/4A3E6FEB C-A C_EQ_B11 15nF
+  ( 1 N-000045 )
+  ( 2 N-000046 )
+ )
+ ( /49EB1486/4A3E6FD3 C-B C_EQ_B12 470nF
+  ( 1 N-000032 )
+  ( 2 N-000047 )
+ )
+ ( /49EB1486/4AC8A831 C-A C_EQ_B13 DNP
+  ( 1 N-000047 )
+  ( 2 N-000048 )
+ )
+ ( /49EB1486/4A3E7011 C-B C_EQ_B14 330nF
+  ( 1 N-000035 )
+  ( 2 N-000049 )
+ )
+ ( /49EB1486/4A3E7009 C-A C_EQ_B15 6.8nF
+  ( 1 N-000049 )
+  ( 2 N-000050 )
+ )
+ ( /49EB1486/4A3E7170 C-A C_EQ_B16 DNP
+  ( 1 N-000031 )
+  ( 2 N-000051 )
+ )
+ ( /49EB1486/4A3E7043 C-A C_EQ_B17 470pF
+  ( 1 N-000051 )
+  ( 2 N-000052 )
+ )
+ ( /49EB1486/4A3E7025 C-A C_EQ_B18 6.8nF
+  ( 1 N-000034 )
+  ( 2 N-000053 )
+ )
+ ( /49EB1486/4A3E7021 C-A C_EQ_B19 68pF
+  ( 1 N-000053 )
+  ( 2 N-000054 )
+ )
+ ( /49EB1486/4A3E7268 C-A C_EQ_B20 6.8nF
+  ( 1 N-000030 )
+  ( 2 N-000055 )
+ )
+ ( /49EB1486/4A3E704F C-B C_EQ_B21 820pF
+  ( 1 N-000055 )
+  ( 2 N-000056 )
+ )
+ ( /49EB1486/4A3E707A C-A C_EQ_B22 4.7nF
+  ( 1 N-000033 )
+  ( 2 N-000057 )
+ )
+ ( /49EB1486/4A3E7077 C-A C_EQ_B23 DNP
+  ( 1 N-000057 )
+  ( 2 N-000058 )
+ )
+ ( /49EB1486/4A3E70AC C-A C_EQ_B24 3.3nF
+  ( 1 N-000029 )
+  ( 2 N-000059 )
+ )
+ ( /49EB1486/4A3E7064 C-A C_EQ_B25 220pF
+  ( 1 N-000059 )
+  ( 2 N-000060 )
+ )
+ ( /49EB148E/485D1CB0 C-D C_PW_1 10uF
+  ( 1 N-000104 )
+  ( 2 N-000105 )
+ )
+ ( /49EB148E/485D1CC5 C-D C_PW_2 10uF
+  ( 1 /eq/GND )
+  ( 2 N-000102 )
+ )
+ ( /49EB148E/485D2091 C-D C_PW_3 100uF
+  ( 1 N-000106 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB148E/485D2099 C-D C_PW_4 10uF
+  ( 1 N-000107 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB148A/486F973C D3 D_PIC_1 DIODE
+  ( 1 /eq/+5V )
+  ( 2 N-000100 )
+ )
+ ( /49EB148E/4AF6A571 D3 D_PW_1 DIODE
+  ( 1 N-000102 )
+  ( 2 N-000101 )
+ )
+ ( /49EB148A/486F87E5 28dip300 IC_PIC_1 PIC16F886
+  ( 1 N-000094 )
+  ( 2 /lcd/LCD_DATA_0 )
+  ( 3 /lcd/LCD_DATA_1 )
+  ( 4 /lcd/LCD_DATA_2 )
+  ( 5 /lcd/LCD_DATA_3 )
+  ( 6 /lcd/LCD_DATA_4 )
+  ( 7 /lcd/LCD_DATA_5 )
+  ( 8 ? )
+  ( 9 /lcd/LCD_DATA_7 )
+  ( 10 /lcd/LCD_DATA_6 )
+  ( 11 /lcd/LCD_E1 )
+  ( 12 /lcd/LCD_E2 )
+  ( 13 /lcd/LCD_A0 )
+  ( 14 /eq/SPI_SCL )
+  ( 15 /lcd/LCD_WR )
+  ( 16 /eq/SPI_SDO )
+  ( 17 N-000096 )
+  ( 18 N-000092 )
+  ( 19 /eq/GND )
+  ( 20 N-000100 )
+  ( 21 /pic/ENC_A )
+  ( 22 /pic/ENC_B )
+  ( 23 /pic/ENC_SW )
+  ( 24 N-000097 )
+  ( 25 /eq/SPI_CS )
+  ( 26 N-000091 )
+  ( 27 N-000093 )
+  ( 28 N-000095 )
+ )
+ ( /49EB1488/4AC8ACF2 PIN_ARRAY_3X1 K_LCD_1 CONN_JMP_1
+  ( 1 /eq/+5V )
+  ( 2 N-000090 )
+  ( 3 /eq/-9V )
+ )
+ ( /49EB148C/486FBECA PIN_ARRAY_5x1 P_ENC_1 CONN_5
+  ( 1 /pic/ENC_A )
+  ( 2 /eq/GND )
+  ( 3 /pic/ENC_B )
+  ( 4 /eq/GND )
+  ( 5 /pic/ENC_SW )
+ )
+ ( /49EB1486/487A1A7D PIN_ARRAY_2X1 P_EQ_1 CONN_2
+  ( 1 /eq/GND )
+  ( 2 N-000075 )
+ )
+ ( /49EB1486/487A2242 PIN_ARRAY_2X1 P_EQ_2 CONN_2
+  ( 1 /eq/GND )
+  ( 2 N-000064 )
+ )
+ ( /49EB1488/486FBD82 SIL-9 P_LCD_1 CONN_9
+  ( 1 /eq/GND )
+  ( 2 /eq/+5V )
+  ( 3 N-000089 )
+  ( 4 /lcd/LCD_A0 )
+  ( 5 /lcd/LCD_E1 )
+  ( 6 /lcd/LCD_E2 )
+  ( 7 /lcd/LCD_WR )
+  ( 8 /lcd/LCD_DATA_0 )
+  ( 9 /lcd/LCD_DATA_1 )
+ )
+ ( /49EB1488/486FBD8F SIL-9 P_LCD_2 CONN_9
+  ( 1 /lcd/LCD_DATA_2 )
+  ( 2 /lcd/LCD_DATA_3 )
+  ( 3 /lcd/LCD_DATA_4 )
+  ( 4 /lcd/LCD_DATA_5 )
+  ( 5 /lcd/LCD_DATA_6 )
+  ( 6 /lcd/LCD_DATA_7 )
+  ( 7 /eq/+5V )
+  ( 8 /eq/+5V )
+  ( 9 /eq/GND )
+ )
+ ( /49EB148A/486F9560 PIN_ARRAY-6X1 P_PIC_1 CONN_6
+  ( 1 N-000094 )
+  ( 2 N-000100 )
+  ( 3 /eq/GND )
+  ( 4 N-000095 )
+  ( 5 N-000093 )
+  ( 6 ? )
+ )
+ ( /49EB148A/486FB96C SIL-4 P_PIC_2 CONN_4
+  ( 1 N-000091 )
+  ( 2 N-000097 )
+  ( 3 N-000092 )
+  ( 4 N-000096 )
+ )
+ ( /49EB148E/4870ADC7 PIN_ARRAY_2X1 P_PW_1 CONN_2
+  ( 1 /eq/GND )
+  ( 2 N-000106 )
+ )
+ ( /49EB1488/486FBC49 Mini_pot RV_LCD_1 10k
+  ( 1 /eq/GND )
+  ( 2 N-000089 )
+  ( 3 N-000090 )
+ )
+ ( /49EB148C/486F7862 R4 R_ENC_1 10k
+  ( 1 /pic/ENC_A )
+  ( 2 /eq/+5V )
+ )
+ ( /49EB148C/486F786A R4 R_ENC_2 10k
+  ( 1 /pic/ENC_B )
+  ( 2 /eq/+5V )
+ )
+ ( /49EB148C/486FC088 R4 R_ENC_3 10k
+  ( 1 /pic/ENC_SW )
+  ( 2 /eq/+5V )
+ )
+ ( /49EB1486/4A7EEAAA R4 R_EQ_1 10k
+  ( 1 N-000026 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A1B58 R4 R_EQ_2 3300
+  ( 1 N-000027 )
+  ( 2 N-000026 )
+ )
+ ( /49EB1486/487A1BB1 R4 R_EQ_3 470
+  ( 1 /eq/GND )
+  ( 2 N-000070 )
+ )
+ ( /49EB1486/4A7EECF5 R4 R_EQ_4 100k
+  ( 1 N-000077 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A1F27 R4 R_EQ_5 3300
+  ( 1 /eq/EQ_A )
+  ( 2 N-000077 )
+ )
+ ( /49EB1486/487A0660 R4 R_EQ_6 470
+  ( 1 N-000088 )
+  ( 2 N-000041 )
+ )
+ ( /49EB1486/487A062F R4 R_EQ_7 68k
+  ( 1 N-000042 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A15C6 R4 R_EQ_8 470
+  ( 1 N-000087 )
+  ( 2 N-000043 )
+ )
+ ( /49EB1486/487A15C4 R4 R_EQ_9 68k
+  ( 1 N-000044 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A165D R4 R_EQ_10 470
+  ( 1 N-000086 )
+  ( 2 N-000045 )
+ )
+ ( /49EB1486/487A165B R4 R_EQ_11 68k
+  ( 1 N-000046 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A1662 R4 R_EQ_12 470
+  ( 1 N-000085 )
+  ( 2 N-000047 )
+ )
+ ( /49EB1486/487A1660 R4 R_EQ_13 68k
+  ( 1 N-000048 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A16DE R4 R_EQ_14 470
+  ( 1 N-000084 )
+  ( 2 N-000049 )
+ )
+ ( /49EB1486/487A16DC R4 R_EQ_15 68k
+  ( 1 N-000050 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A16E3 R4 R_EQ_16 470
+  ( 1 N-000083 )
+  ( 2 N-000051 )
+ )
+ ( /49EB1486/487A16E1 R4 R_EQ_17 68k
+  ( 1 N-000052 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A1741 R4 R_EQ_18 470
+  ( 1 N-000082 )
+  ( 2 N-000053 )
+ )
+ ( /49EB1486/487A173F R4 R_EQ_19 68k
+  ( 1 N-000054 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A1746 R4 R_EQ_20 470
+  ( 1 N-000081 )
+  ( 2 N-000055 )
+ )
+ ( /49EB1486/487A1744 R4 R_EQ_21 68k
+  ( 1 N-000056 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A174D R4 R_EQ_22 470
+  ( 1 N-000080 )
+  ( 2 N-000057 )
+ )
+ ( /49EB1486/487A174B R4 R_EQ_23 68k
+  ( 1 N-000058 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A1752 R4 R_EQ_24 470
+  ( 1 N-000079 )
+  ( 2 N-000059 )
+ )
+ ( /49EB1486/487A1750 R4 R_EQ_25 68k
+  ( 1 N-000060 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A21A2 R4 R_EQ_26 3300
+  ( 1 N-000040 )
+  ( 2 /eq/EQ_B )
+ )
+ ( /49EB1486/4A7EEF29 R4 R_EQ_27 10k
+  ( 1 N-000076 )
+  ( 2 /eq/GND )
+ )
+ ( /49EB1486/487A21E2 R4 R_EQ_28 100
+  ( 1 N-000039 )
+  ( 2 N-000076 )
+ )
+ ( /49EB1486/4AF6AA20 R4 R_EQ_29 3300
+  ( 1 N-000069 )
+  ( 2 N-000062 )
+ )
+ ( /49EB1486/487A1618 14dip300 U_EQ_1 MCP42XXX
+  ( 1 /eq/SPI_CS )
+  ( 2 /eq/SPI_SCL )
+  ( 3 /eq/SPI_SDO )
+  ( 4 /eq/GND )
+  ( 5 /eq/EQ_B )
+  ( 6 N-000038 )
+  ( 7 /eq/EQ_A )
+  ( 8 /eq/EQ_A )
+  ( 9 N-000037 )
+  ( 10 /eq/EQ_B )
+  ( 11 /eq/+5V )
+  ( 12 /eq/+5V )
+  ( 13 N-000066 )
+  ( 14 /eq/+5V )
+ )
+ ( /49EB1486/487A1664 14dip300 U_EQ_2 MCP42XXX
+  ( 1 /eq/SPI_CS )
+  ( 2 /eq/SPI_SCL )
+  ( 3 N-000066 )
+  ( 4 /eq/GND )
+  ( 5 /eq/EQ_B )
+  ( 6 N-000032 )
+  ( 7 /eq/EQ_A )
+  ( 8 /eq/EQ_A )
+  ( 9 N-000036 )
+  ( 10 /eq/EQ_B )
+  ( 11 /eq/+5V )
+  ( 12 /eq/+5V )
+  ( 13 N-000065 )
+  ( 14 /eq/+5V )
+ )
+ ( /49EB1486/487A16E6 14dip300 U_EQ_3 MCP42XXX
+  ( 1 /eq/SPI_CS )
+  ( 2 /eq/SPI_SCL )
+  ( 3 N-000065 )
+  ( 4 /eq/GND )
+  ( 5 /eq/EQ_B )
+  ( 6 N-000031 )
+  ( 7 /eq/EQ_A )
+  ( 8 /eq/EQ_A )
+  ( 9 N-000035 )
+  ( 10 /eq/EQ_B )
+  ( 11 /eq/+5V )
+  ( 12 /eq/+5V )
+  ( 13 N-000067 )
+  ( 14 /eq/+5V )
+ )
+ ( /49EB1486/487A1749 14dip300 U_EQ_4 MCP42XXX
+  ( 1 /eq/SPI_CS )
+  ( 2 /eq/SPI_SCL )
+  ( 3 N-000067 )
+  ( 4 /eq/GND )
+  ( 5 /eq/EQ_B )
+  ( 6 N-000030 )
+  ( 7 /eq/EQ_A )
+  ( 8 /eq/EQ_A )
+  ( 9 N-000034 )
+  ( 10 /eq/EQ_B )
+  ( 11 /eq/+5V )
+  ( 12 /eq/+5V )
+  ( 13 N-000061 )
+  ( 14 /eq/+5V )
+ )
+ ( /49EB1486/487A1754 14dip300 U_EQ_5 MCP42XXX
+  ( 1 /eq/SPI_CS )
+  ( 2 /eq/SPI_SCL )
+  ( 3 N-000061 )
+  ( 4 /eq/GND )
+  ( 5 /eq/EQ_B )
+  ( 6 N-000029 )
+  ( 7 /eq/EQ_A )
+  ( 8 /eq/EQ_A )
+  ( 9 N-000033 )
+  ( 10 /eq/EQ_B )
+  ( 11 /eq/+5V )
+  ( 12 /eq/+5V )
+  ( 13 N-000068 )
+  ( 14 /eq/+5V )
+ )
+ ( /49EB1486/4ADC8B03 14dip300 U_EQ_6 MCP42010
+  ( 1 /eq/SPI_CS )
+  ( 2 /eq/SPI_SCL )
+  ( 3 N-000068 )
+  ( 4 /eq/GND )
+  ( 5 N-000072 )
+  ( 6 N-000074 )
+  ( 7 N-000073 )
+  ( 8 N-000027 )
+  ( 9 N-000070 )
+  ( 10 N-000069 )
+  ( 11 /eq/+5V )
+  ( 12 /eq/+5V )
+  ( 13 ? )
+  ( 14 /eq/+5V )
+ )
+ ( /49EB1486/487A165F 14dip300 U_EQ_8 TL074
+  ( 1 N-000088 )
+  ( 2 N-000088 )
+  ( 3 N-000042 )
+  ( 4 /eq/+9V )
+  ( 5 N-000044 )
+  ( 6 N-000087 )
+  ( 7 N-000087 )
+  ( 8 N-000086 )
+  ( 9 N-000086 )
+  ( 10 N-000046 )
+  ( 11 /eq/-9V )
+  ( 12 N-000048 )
+  ( 13 N-000085 )
+  ( 14 N-000085 )
+ )
+ ( /49EB1486/487A1743 14dip300 U_EQ_9 TL074
+  ( 1 N-000084 )
+  ( 2 N-000084 )
+  ( 3 N-000050 )
+  ( 4 /eq/+9V )
+  ( 5 N-000052 )
+  ( 6 N-000083 )
+  ( 7 N-000083 )
+  ( 8 N-000082 )
+  ( 9 N-000082 )
+  ( 10 N-000054 )
+  ( 11 /eq/-9V )
+  ( 12 N-000056 )
+  ( 13 N-000081 )
+  ( 14 N-000081 )
+ )
+ ( /49EB1486/487A1A93 14dip300 U_EQ_10 TL074
+  ( 1 N-000080 )
+  ( 2 N-000080 )
+  ( 3 N-000058 )
+  ( 4 /eq/+9V )
+  ( 5 N-000060 )
+  ( 6 N-000079 )
+  ( 7 N-000079 )
+  ( 8 N-000062 )
+  ( 9 N-000069 )
+  ( 10 N-000027 )
+  ( 11 /eq/-9V )
+  ( 12 /eq/EQ_A )
+  ( 13 /eq/EQ_B )
+  ( 14 N-000040 )
+ )
+ ( /49EB148E/485D286C 8dip300 U_PW_1 MAX1044
+  ( 1 N-000106 )
+  ( 2 N-000104 )
+  ( 3 /eq/GND )
+  ( 4 N-000105 )
+  ( 5 N-000102 )
+  ( 6 N-000101 )
+  ( 7 ? )
+  ( 8 N-000106 )
+ )
+ ( /49EB148E/485D2012 LM78XX U_PW_2 LM7805
+  ( 1 N-000106 )
+  ( 2 /eq/GND )
+  ( 3 N-000107 )
+ )
+ ( /49EB1486/4A7EF41E PIN_ARRAY_2X1 W_EQ_1 TEST
+  ( 1 N-000075 )
+  ( 2 N-000028 )
+ )
+ ( /49EB1486/4A7EF160 PIN_ARRAY_2X1 W_EQ_3 TEST
+  ( 1 /eq/EQ_B )
+  ( 2 N-000063 )
+ )
+ ( /49EB1486/4A7EF4E6 PIN_ARRAY_2X1 W_EQ_4 TEST
+  ( 1 N-000039 )
+  ( 2 N-000064 )
+ )
+ ( /49EB148E/4A7EF2AA PIN_ARRAY_2X1 W_PW_M9 TEST
+  ( 1 N-000102 )
+  ( 2 /eq/-9V )
+ )
+ ( /49EB148E/4A7EF2A8 PIN_ARRAY_2X1 W_PW_P5 TEST
+  ( 1 N-000107 )
+  ( 2 /eq/+5V )
+ )
+ ( /49EB148E/4A7EF28C PIN_ARRAY_2X1 W_PW_P9 TEST
+  ( 1 N-000106 )
+  ( 2 /eq/+9V )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C_EQ_1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_8
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_9
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_10
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_11
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_12
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_13
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_14
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_15
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_16
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_17
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_18
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_19
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_20
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_21
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_22
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_23
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_24
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_25
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_26
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_27
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B8
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B9
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B10
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B11
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B12
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B13
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B14
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B15
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B16
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B17
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B18
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B19
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B20
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B21
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B22
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B23
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B24
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_EQ_B25
+ SM*
+ C?
+ C1-1
+$endlist
+$component C_PW_1
+ CP*
+ SM*
+$endlist
+$component C_PW_2
+ CP*
+ SM*
+$endlist
+$component C_PW_3
+ CP*
+ SM*
+$endlist
+$component C_PW_4
+ CP*
+ SM*
+$endlist
+$component D_PIC_1
+ D?
+ S*
+$endlist
+$component D_PW_1
+ D?
+ S*
+$endlist
+$component R_ENC_1
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_ENC_2
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_ENC_3
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_1
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_2
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_3
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_4
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_5
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_6
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_7
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_8
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_9
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_10
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_11
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_12
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_13
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_14
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_15
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_16
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_17
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_18
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_19
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_20
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_21
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_22
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_23
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_24
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_25
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_26
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_27
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_28
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R_EQ_29
+ R?
+ SM0603
+ SM0805
+$endlist
+$endfootprintlist
+}
