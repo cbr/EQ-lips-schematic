@@ -1,11 +1,38 @@
-EESchema Schematic File Version 2  date dim. 08 nov. 2009 13:51:21 CET
-LIBS:power,device,conn,linear,regul,74xx,cmos4000,adc-dac,memory,xilinx,special,microcontrollers,dsp,microchip,analog_switches,motorola,texas,intel,audio,interface,digital-audio,philips,display,cypress,siliconi,contrib,valves,./eq_prog.cache
+EESchema Schematic File Version 2  date dim. 17 oct. 2010 18:24:34 CEST
+LIBS:power
+LIBS:device
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:contrib
+LIBS:valves
+LIBS:eq_prog-cache
 EELAYER 23  0
 EELAYER END
 $Descr A4 11700 8267
 Sheet 1 6
 Title ""
-Date "13 jul 2008"
+Date "17 oct 2010"
 Rev ""
 Comp ""
 Comment1 ""

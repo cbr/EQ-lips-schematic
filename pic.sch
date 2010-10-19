@@ -1,11 +1,38 @@
-EESchema Schematic File Version 2  date dim. 08 nov. 2009 13:51:21 CET
-LIBS:power,device,conn,linear,regul,74xx,cmos4000,adc-dac,memory,xilinx,special,microcontrollers,dsp,microchip,analog_switches,motorola,texas,intel,audio,interface,digital-audio,philips,display,cypress,siliconi,contrib,valves,./eq_prog.cache
+EESchema Schematic File Version 2  date dim. 17 oct. 2010 18:24:34 CEST
+LIBS:power
+LIBS:device
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:contrib
+LIBS:valves
+LIBS:eq_prog-cache
 EELAYER 23  0
 EELAYER END
 $Descr A4 11700 8267
 Sheet 4 6
 Title ""
-Date "13 jul 2008"
+Date "17 oct 2010"
 Rev ""
 Comp ""
 Comment1 ""
@@ -13,91 +40,101 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Kmarq B 4700 2250 "Attention: Pin power_in non pilotée (Net 100)" F=1
-Kmarq B 4700 4250 "Attention: Pin power_in non pilotée (Net 17)" F=1
+Connection ~ 4700 2100
 Wire Wire Line
-	7150 3350 6900 3350
+	4800 2100 4700 2100
 Wire Wire Line
-	6900 3350 6900 2850
+	7150 3450 6800 3450
 Wire Wire Line
-	6900 2850 5600 2850
+	6800 3450 6800 3050
 Wire Wire Line
-	5600 3550 7150 3550
-Wire Wire Line
-	5600 3850 6150 3850
-Wire Wire Line
-	3900 3950 3300 3950
-Wire Wire Line
-	3900 3750 3300 3750
-Wire Wire Line
-	5600 3250 6150 3250
-Wire Wire Line
-	5600 3750 6150 3750
-Wire Wire Line
-	5600 2750 6100 2750
-Wire Wire Line
-	6100 2750 6100 1750
-Wire Wire Line
-	6100 1750 6350 1750
-Wire Wire Line
-	6350 1550 5800 1550
-Wire Wire Line
-	4700 4250 4700 4500
-Wire Wire Line
-	4700 4500 4550 4500
-Wire Wire Line
-	5600 2950 6150 2950
-Wire Wire Line
-	3900 4050 3300 4050
-Wire Wire Line
-	3300 3450 3900 3450
-Wire Wire Line
-	3300 3150 3900 3150
-Wire Wire Line
-	3300 3050 3900 3050
-Wire Wire Line
-	3300 2750 3900 2750
-Wire Wire Line
-	3300 2850 3900 2850
-Wire Wire Line
-	3300 2950 3900 2950
-Wire Wire Line
-	3300 3250 3900 3250
-Wire Wire Line
-	3900 3550 3300 3550
-Wire Wire Line
-	6350 1350 3800 1350
-Wire Wire Line
-	3800 1350 3800 2550
-Wire Wire Line
-	3800 2550 3900 2550
-Wire Wire Line
-	4200 1950 4300 1950
-Wire Wire Line
-	6350 1450 4700 1450
-Wire Wire Line
-	4700 1450 4700 2250
-Connection ~ 4700 1950
-Wire Wire Line
-	6350 1650 6000 1650
-Wire Wire Line
-	6000 1650 6000 2650
-Wire Wire Line
-	6000 2650 5600 2650
-Wire Wire Line
-	5600 3150 6150 3150
-Wire Wire Line
-	5600 3350 6150 3350
-Wire Wire Line
-	3900 3850 3300 3850
+	6800 3050 5600 3050
 Wire Wire Line
 	5600 3650 7150 3650
 Wire Wire Line
-	5600 3050 6800 3050
+	3900 3850 3300 3850
 Wire Wire Line
-	6800 3050 6800 3450
+	5600 3350 6150 3350
 Wire Wire Line
-	6800 3450 7150 3450
+	5600 3150 6150 3150
+Wire Wire Line
+	5600 2650 6000 2650
+Wire Wire Line
+	6000 2650 6000 1650
+Wire Wire Line
+	6000 1650 6350 1650
+Connection ~ 4700 1950
+Wire Wire Line
+	4700 2250 4700 1450
+Wire Wire Line
+	4700 1450 6350 1450
+Wire Wire Line
+	4200 1950 4300 1950
+Wire Wire Line
+	3900 2550 3800 2550
+Wire Wire Line
+	3800 2550 3800 1350
+Wire Wire Line
+	3800 1350 6350 1350
+Wire Wire Line
+	3900 3550 3300 3550
+Wire Wire Line
+	3300 3250 3900 3250
+Wire Wire Line
+	3300 2950 3900 2950
+Wire Wire Line
+	3300 2850 3900 2850
+Wire Wire Line
+	3300 2750 3900 2750
+Wire Wire Line
+	3300 3050 3900 3050
+Wire Wire Line
+	3300 3150 3900 3150
+Wire Wire Line
+	3300 3450 3900 3450
+Wire Wire Line
+	3900 4050 3300 4050
+Wire Wire Line
+	5600 2950 6150 2950
+Wire Wire Line
+	4550 4500 4700 4500
+Wire Wire Line
+	4700 4500 4700 4250
+Wire Wire Line
+	6350 1550 5800 1550
+Wire Wire Line
+	6350 1750 6100 1750
+Wire Wire Line
+	6100 1750 6100 2750
+Wire Wire Line
+	6100 2750 5600 2750
+Wire Wire Line
+	5600 3750 6150 3750
+Wire Wire Line
+	5600 3250 6150 3250
+Wire Wire Line
+	3900 3750 3300 3750
+Wire Wire Line
+	3900 3950 3300 3950
+Wire Wire Line
+	5600 3850 6150 3850
+Wire Wire Line
+	5600 3550 7150 3550
+Wire Wire Line
+	5600 2850 6900 2850
+Wire Wire Line
+	6900 2850 6900 3350
+Wire Wire Line
+	6900 3350 7150 3350
+$Comp
+L PWR_FLAG #FLG01
+U 1 1 4CBB216A
+P 4800 2100
+F 0 "#FLG01" H 4800 2370 30  0001 C CNN
+F 1 "PWR_FLAG" H 4800 2330 30  0000 C CNN
+	1    4800 2100
+	0    1    1    0   
+$EndComp
 NoConn ~ 4800 4250
 NoConn ~ 6350 1850
 $Comp
