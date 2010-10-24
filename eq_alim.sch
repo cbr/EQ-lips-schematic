@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date dim. 17 oct. 2010 18:24:34 CEST
+EESchema Schematic File Version 2  date dim. 24 oct. 2010 16:26:33 CEST
 LIBS:power
 LIBS:device
 LIBS:conn
@@ -26,14 +26,14 @@ LIBS:cypress
 LIBS:siliconi
 LIBS:contrib
 LIBS:valves
-LIBS:eq_prog-cache
-EELAYER 23  0
+LIBS:eqlips-cache
+EELAYER 24  0
 EELAYER END
 $Descr A4 11700 8267
 Sheet 6 6
-Title ""
-Date "17 oct 2010"
-Rev ""
+Title "EQ-lips - power supply"
+Date "24 oct 2010"
+Rev "1.1.0"
 Comp ""
 Comment1 ""
 Comment2 ""
