@@ -1,19 +1,55 @@
-# EESchema Netlist Version 1.1 created  sam. 17 avril 2010 11:15:39 CEST
+# EESchema Netlist Version 1.1 created  dim. 24 oct. 2010 13:09:13 CEST
 (
- ( /4BC97136 SIL-2 P_1 CONN_2
-  ( 1 N-000002 )
-  ( 2 N-000004 )
+ ( /4CC410F0 $noname  R1 470k {Lib=R}
+  (    1 N-000004 )
+  (    2 N-000003 )
  )
- ( /4BC971E2 SIL-2 P_EQ_2 CONN_2
-  ( 1 N-000003 )
-  ( 2 N-000001 )
+ ( /4CC40FE0 $noname  P_GROUND_1 CONN_1 {Lib=CONN_1}
+  (    1 N-000003 )
  )
- ( /4BC97AA5 DIP-8__300 U? TL071
-  ( 2 N-000004 )
-  ( 3 N-000002 )
-  ( 4 N-000003 )
-  ( 6 N-000004 )
-  ( 7 N-000001 )
+ ( /4BC97AA5 $noname  U1 TL071 {Lib=TL071}
+  (    2 N-000005 )
+  (    3 N-000004 )
+  (    4 N-000001 )
+  (    6 N-000005 )
+  (    7 N-000002 )
+ )
+ ( /4BC971E2 $noname  P2 CONN_2 {Lib=CONN_2}
+  (    1 N-000001 )
+  (    2 N-000002 )
+ )
+ ( /4BC97136 $noname  P1 CONN_2 {Lib=CONN_2}
+  (    1 N-000004 )
+  (    2 N-000005 )
  )
 )
 *
+{ Allowed footprints by component:
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 1 "" ""
+ P2 1
+ U1 4
+Net 2 "" ""
+ P2 2
+ U1 7
+Net 3 "" ""
+ P_GROUND_1 1
+ R1 2
+Net 4 "" ""
+ R1 1
+ U1 3
+ P1 1
+Net 5 "" ""
+ U1 2
+ U1 6
+ P1 2
+}
+#End
