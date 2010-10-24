@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0  dim. 18 avril 2010 11:00:24 CEST
+#
+$CMP CONN_2
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP TL071
+D Op amp.
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+#End Doc Library

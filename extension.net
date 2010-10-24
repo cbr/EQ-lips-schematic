@@ -1,0 +1,19 @@
+# EESchema Netlist Version 1.1 created  sam. 17 avril 2010 11:15:39 CEST
+(
+ ( /4BC97136 SIL-2 P_1 CONN_2
+  ( 1 N-000002 )
+  ( 2 N-000004 )
+ )
+ ( /4BC971E2 SIL-2 P_EQ_2 CONN_2
+  ( 1 N-000003 )
+  ( 2 N-000001 )
+ )
+ ( /4BC97AA5 DIP-8__300 U? TL071
+  ( 2 N-000004 )
+  ( 3 N-000002 )
+  ( 4 N-000003 )
+  ( 6 N-000004 )
+  ( 7 N-000001 )
+ )
+)
+*
