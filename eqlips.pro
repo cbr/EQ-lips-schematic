@@ -1,10 +1,12 @@
-update=dim. 24 oct. 2010 16:03:27 CEST
+update=lun. 25 oct. 2010 21:18:43 CEST
 last_client=pcbnew
 [common]
 NetDir=
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=kicad_lib/component
 NetFmt=1
 HPGLSpd=20
 HPGLDm=15
@@ -35,6 +37,8 @@ RptLab=1
 SimCmd=
 UseNetN=0
 LabSize=60
+PrintMonochrome=1
+ShowSheetReferenceAndTitleBlock=1
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -63,8 +67,9 @@ LibName24=cypress
 LibName25=siliconi
 LibName26=contrib
 LibName27=valves
-[general]
-version=1
+LibName28=max1044
+LibName29=mcp42xxx
+LibName30=pic16f886
 [cvpcb]
 version=1
 NetIExt=net
@@ -90,7 +95,7 @@ TxtLar=120
 MSegLar=150
 LastNetListRead=eq_prog.net
 [pcbnew/libraries]
-LibDir=
+LibDir=kicad_lib/footprint
 LibName1=connect
 LibName2=discret
 LibName3=pin_array
@@ -99,5 +104,5 @@ LibName5=libcms
 LibName6=display
 LibName7=valves
 LibName8=dip_sockets
-LibName9=/home/cedric/Documents/elec/tools/kicad/lib/footprint/Mini_pot
-LibName10=/home/cedric/Documents/elec/tools/kicad/lib/footprint/capa
+LibName9=Mini_pot
+LibName10=capa

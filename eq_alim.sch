@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date dim. 24 oct. 2010 16:26:33 CEST
+EESchema Schematic File Version 2  date lun. 25 oct. 2010 21:16:22 CEST
 LIBS:power
 LIBS:device
 LIBS:conn
@@ -26,6 +26,9 @@ LIBS:cypress
 LIBS:siliconi
 LIBS:contrib
 LIBS:valves
+LIBS:max1044
+LIBS:mcp42xxx
+LIBS:pic16f886
 LIBS:eqlips-cache
 EELAYER 24  0
 EELAYER END
