@@ -2,9 +2,9 @@
 ** Description
 Electronic schematics of EQ-lips.
 
-EQ-lips is an equalizer pedal effect which has
-the following features:
-  - 10 bands of EQ and 1 global gain with a range of +/- 18dB
+EQ-lips is a graphiq equalizer pedal effect with the following
+features:
+  - 10 bands of EQ and global gain control with a range of +/-18dB
   - 23 memory banks
   - Analog signal treatment
   - Equalization configuration with LCD and rotary encoder
@@ -16,8 +16,8 @@ Schematics have been realized with [[http://www.lis.inpg.fr/realise_au_lis/kicad
 This first a prototype has been manufactured. Some mistakes have been
 corrected to give version 1.1.0.
 *** 1.1.0
-This version has not been manufactured (NOT TESTED). It includes correction of
-mistakes encountered on 1.0.0 version and some PCB enhancements.
+This version has not been manufactured (NOT TESTED). It fix mistakes
+encountered on 1.0.0 version and brings some PCB enhancements.
 
 ** Author
 Cédric Brégardis (cedric.bregardis <at> gmail.com)
