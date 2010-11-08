@@ -18,8 +18,10 @@ The firmware of EQ-lips can be found here:
 been used during the design of these schematics:
 [[http://github.com/cbr/EQ-lips-tools]].
 
-The bill of materials (BOM) can be found in [[http://github.com/cbr/EQ-lips-schematic/blob/master/bom.ods][bom.ods]] (OpenDocument
+The bill of materials (BOM) can be found in file [[http://github.com/cbr/EQ-lips-schematic/blob/master/bom.ods][bom.ods]] (OpenDocument
 Spreadsheet file format which can be opened with OpenOffice.org).
+
+More information at [[http://eqlips.free.fr/]].
 
 ** Version
 *** 1.0.0
